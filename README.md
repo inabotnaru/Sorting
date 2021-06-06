@@ -1,5 +1,5 @@
 # Sorting
-## Insertion Sort '\n'
+## Insertion Sort
 ## java.util.Arrays sort()
 ## Shell Sort
 ## Merge Sort
