@@ -4,4 +4,4 @@
 ## Shell Sort
 ## Merge Sort
 ## Heap Sort
-## Quick Sort
+## Quick Sort Done
